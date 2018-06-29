@@ -3,17 +3,17 @@ function add (a,b, result){
   return result;
 }
 
-function subtracts (a,b, result){
+function subtract (a,b, result){
   result = a - b;
   return result;
 }
 
-function multiplies (a,b, result){
+function multiplie (a,b, result){
   result = a * b;
   return result;
 }
 
-function divides (a,b, result){
+function divide (a,b, result){
   result = a / b;
   return result;
 }
